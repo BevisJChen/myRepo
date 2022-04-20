@@ -1,4 +1,4 @@
-# myRepo
+# git_practice
 1
 2
 3
